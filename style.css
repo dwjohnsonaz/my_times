@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+html {
+  font-family: Helvetica, sans-serif;
+  background-color: white;
+  text-align: center;
+}
+
+h1 {
+	font-family: Verdana;
+	font-size: 14px;
+	font-weight: bold;
+	color: MediumAquamarine;
+}
